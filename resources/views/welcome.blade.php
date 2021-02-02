@@ -19,7 +19,7 @@
                 <div class="col-12 text-center text-white">
                     <div class="jumbotron bg-transparent">
                         <h1 class="font-main">Archimedes</h1>
-                        <p class="font-second display-1">Електронна система ведення лекцій та оцінювання студентів<br><a href="http://kpeklntu.com.ua" class="text-white">КПЕК Луцького НТУ</a></p>
+                        <p class="font-second">Електронна система ведення лекцій та оцінювання студентів<br><a href="http://kpeklntu.com.ua" class="text-white">КПЕК Луцького НТУ</a></p>
                     </div>
                 </div>      
             </div>
