@@ -63,10 +63,12 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
-        if (ctype_digit($data['identifier'][0]){
+        if (ctype_digit($data['identifier'][0]))
+        {
             $type = "teacher";
         }
-        else{
+        else
+        {
             $type = "student";
         }
         return User::create([
